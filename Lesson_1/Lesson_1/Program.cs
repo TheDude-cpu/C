@@ -37,7 +37,7 @@ namespace Hello_200212
                 }
 
                 Console.ReadKey();  // powstrzymywanie konsoli przed zamknięciem :)
-                Console.Clear(); // wyczyszenie ekranu
+                
                 Console.ResetColor(); // resetowanie koloru
             }
         }
