@@ -7,7 +7,7 @@ namespace Lesson_class
     class Diary
     {
         // Stan - variables (fields)
-        List<float> ratings; 
+        List<float> ratings = new List<float>(); 
 
         //Behavior - method 
         public void AddRating(float rating) //parameter ratings to add
