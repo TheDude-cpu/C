@@ -14,16 +14,26 @@ namespace Lesson_class
 
             for (; ; ) // infinit loop
             {
-                Console.WriteLine("Write rating from range 1-10" );
+                Console.WriteLine("Write rating from range 1-10");
 
-                float rating = float.Parse(Console.ReadLine()); // change string on float
+                float rating;
+                bool result = float.TryParse(Console.ReadLine(), out rating); // change string on float
 
                 if (rating == 11)
                 {
                     break;
                 }
 
-                diary.AddRating(rating); //add rating to diary
+                if (result == true) // we can write only result
+                {
+                    if (rating > 0 && rating <=10)
+                    {
+                        diary.AddRating(rating); //add rating to diary
+                    }
+                    else
+                        Console.WriteLine("Not expected rating");
+                }
+
             }
 
             Console.WriteLine("Average your ratings is: " + diary.CalculateAverage());
