@@ -41,6 +41,10 @@ namespace Lesson_class
             Console.WriteLine("Min rating of your ratings is: " + diary.GiveMinRating());
 
             Console.ReadKey();
+
+            Diary diary2 = new Diary(); // next diary ...
+            Diary diary3 = new Diary(); // each is different diary with rating,  and each has access to method, instance etc.
+            Diary diary4 = new Diary();
         }
  
     }
