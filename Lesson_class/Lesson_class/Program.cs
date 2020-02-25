@@ -12,10 +12,6 @@ namespace Lesson_class
         {
             Diary diary = new Diary(); // declaration first class // new creat instation of diary
 
-            float avg = diary.CalculateAverage();
-            float max = diary.GiveMaxRating();
-            float min = diary.GiveMinRating();
-
             for (; ; ) // infinit loop
             {
                 Console.WriteLine("Write rating from range 1-10" );
