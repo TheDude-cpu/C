@@ -6,8 +6,12 @@ namespace Lesson_class
 {
     class Diary
     {
+        public Diary() // default constructor
+        {
+            ratings = new List<float>();
+        }
         // Stan - variables (fields)
-        List<float> ratings = new List<float>(); 
+        List<float> ratings;
 
         //Behavior - method 
         public void AddRating(float rating) //parameter ratings to add

@@ -2,9 +2,10 @@
   "ExpandedNodes": [
     "",
     "\\Lesson_1",
+    "\\Lesson_1\\Lesson_1",
     "\\Lesson_class",
     "\\Lesson_class\\Lesson_class"
   ],
-  "SelectedNode": "\\Lesson_class\\Lesson_class\\Diary.cs",
+  "SelectedNode": "\\Lesson_class\\Lesson_class\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
