@@ -34,5 +34,20 @@ namespace Constructors
             this.gender = gender;
 
         }
+
+        public Person(int id, string firstName, string lastName)
+        {
+            this.id = id;
+            this.firstName = firstName;
+            this.lastName = lastName;
+            address = "Katowice"; //always will be this place
+            age = 18;
+        }
+
+        public Person(int id, string firstName)
+        {
+            this.id = id;
+            this.firstName = firstName;
+        }
     }
 }
