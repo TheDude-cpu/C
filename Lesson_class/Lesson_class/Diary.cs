@@ -13,6 +13,9 @@ namespace Lesson_class
         // Stan - variables (fields)
         private List<float> ratings;
 
+        public static float MinGrade = 0;
+        public static float MaxGrade = 10; 
+
         //Behavior - method 
         public void AddRating(float rating) //parameter ratings to add
         {
