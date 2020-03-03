@@ -11,7 +11,7 @@ namespace Lesson_class
             ratings = new List<float>();
         }
         // Stan - variables (fields)
-        List<float> ratings;
+        private List<float> ratings;
 
         //Behavior - method 
         public void AddRating(float rating) //parameter ratings to add
