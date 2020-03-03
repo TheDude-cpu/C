@@ -12,39 +12,20 @@ namespace Lesson_class
         {
             Diary diary = new Diary(); // declaration first class // new creat instation of diary
 
-            for (; ; ) // infinit loop
-            {
-                Console.WriteLine("Write rating from range 1-10");
+            diary.AddRating(5);
+            diary.AddRating(8.5f);
+            diary.AddRating(4.7f);
 
-                float rating;
-                bool result = float.TryParse(Console.ReadLine(), out rating); // change string on float
+            DiaryStatistics stats = diary.ComputeStatistics();
 
-                if (rating == 11)
-                {
-                    break;
-                }
+            //var avg = stats.AverageGrade;
 
-                if (result == true) // we can write only result
-                {
-                    if (rating > 0 && rating <=10)
-                    {
-                        diary.AddRating(rating); //add rating to diary
-                    }
-                    else
-                        Console.WriteLine("Not expected rating");
-                }
-
-            }
-
-            Console.WriteLine("Average your ratings is: " + diary.CalculateAverage());
-            Console.WriteLine("Max rating of your ratings is: " + diary.GiveMaxRating());
-            Console.WriteLine("Min rating of your ratings is: " + diary.GiveMinRating());
+            Console.WriteLine("Average Value:" + stats.AverageGrade);
+            Console.WriteLine("Average Value Max:" + stats.MaxGrade);
+            Console.WriteLine("Average Value Min:" + stats.MinGrade);
 
             Console.ReadKey();
 
-            Diary diary2 = new Diary(); // next diary ...
-            Diary diary3 = new Diary(); // each is different diary with rating,  and each has access to method, instance etc.
-            Diary diary4 = new Diary();
         }
  
     }
