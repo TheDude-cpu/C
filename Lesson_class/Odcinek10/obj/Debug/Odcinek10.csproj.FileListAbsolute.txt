@@ -1,0 +1,6 @@
+D:\GitHub\repos\TheDude-cpu\C-\Lesson_class\Odcinek10\bin\Debug\Odcinek10.exe.config
+D:\GitHub\repos\TheDude-cpu\C-\Lesson_class\Odcinek10\bin\Debug\Odcinek10.exe
+D:\GitHub\repos\TheDude-cpu\C-\Lesson_class\Odcinek10\bin\Debug\Odcinek10.pdb
+D:\GitHub\repos\TheDude-cpu\C-\Lesson_class\Odcinek10\obj\Debug\Odcinek10.csprojAssemblyReference.cache
+D:\GitHub\repos\TheDude-cpu\C-\Lesson_class\Odcinek10\obj\Debug\Odcinek10.exe
+D:\GitHub\repos\TheDude-cpu\C-\Lesson_class\Odcinek10\obj\Debug\Odcinek10.pdb

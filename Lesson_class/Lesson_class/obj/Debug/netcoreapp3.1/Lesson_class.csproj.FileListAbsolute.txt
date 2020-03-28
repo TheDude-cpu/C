@@ -1,0 +1,13 @@
+D:\GitHub\repos\TheDude-cpu\C-\Lesson_class\Lesson_class\bin\Debug\netcoreapp3.1\Lesson_class.exe
+D:\GitHub\repos\TheDude-cpu\C-\Lesson_class\Lesson_class\bin\Debug\netcoreapp3.1\Lesson_class.deps.json
+D:\GitHub\repos\TheDude-cpu\C-\Lesson_class\Lesson_class\bin\Debug\netcoreapp3.1\Lesson_class.runtimeconfig.json
+D:\GitHub\repos\TheDude-cpu\C-\Lesson_class\Lesson_class\bin\Debug\netcoreapp3.1\Lesson_class.runtimeconfig.dev.json
+D:\GitHub\repos\TheDude-cpu\C-\Lesson_class\Lesson_class\bin\Debug\netcoreapp3.1\Lesson_class.dll
+D:\GitHub\repos\TheDude-cpu\C-\Lesson_class\Lesson_class\bin\Debug\netcoreapp3.1\Lesson_class.pdb
+D:\GitHub\repos\TheDude-cpu\C-\Lesson_class\Lesson_class\obj\Debug\netcoreapp3.1\Lesson_class.csprojAssemblyReference.cache
+D:\GitHub\repos\TheDude-cpu\C-\Lesson_class\Lesson_class\obj\Debug\netcoreapp3.1\Lesson_class.AssemblyInfoInputs.cache
+D:\GitHub\repos\TheDude-cpu\C-\Lesson_class\Lesson_class\obj\Debug\netcoreapp3.1\Lesson_class.AssemblyInfo.cs
+D:\GitHub\repos\TheDude-cpu\C-\Lesson_class\Lesson_class\obj\Debug\netcoreapp3.1\Lesson_class.dll
+D:\GitHub\repos\TheDude-cpu\C-\Lesson_class\Lesson_class\obj\Debug\netcoreapp3.1\Lesson_class.pdb
+D:\GitHub\repos\TheDude-cpu\C-\Lesson_class\Lesson_class\obj\Debug\netcoreapp3.1\Lesson_class.csproj.CoreCompileInputs.cache
+D:\GitHub\repos\TheDude-cpu\C-\Lesson_class\Lesson_class\obj\Debug\netcoreapp3.1\Lesson_class.genruntimeconfig.cache
